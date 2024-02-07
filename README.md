@@ -1,0 +1,51 @@
+# Build Your Own NestJS
+
+Blog Link: [YuQue](https://www.yuque.com/shujer/skill/rciv7hbxxw54ig42)
+
+# Catalog
+- [x] Stater Template
+- [x] HTTP Request & Swagger
+- [ ] Config & Env
+- [ ] Basic Concepts
+  - [ ] Module
+  - [ ] Provider
+  - [ ] Controller
+  - [ ] Service
+  - [ ] Inject & Injectable
+  - [ ] Pipe
+  - [ ] Guard
+  - [ ] Middleware
+  - [ ] Exception Filter
+  - [ ] Interceptors
+  - [ ] Reflection and metadata
+  - [ ] Adapter
+  - [ ] LifeCycle
+- [ ] Practices
+  - [ ] DataBase
+    - [ ] MySQL Connection
+    - [ ] Redis Connection
+    - [ ] ES Connection
+    - [ ] TypeORM
+    - [ ] Knex
+  - [ ] GRPC
+    - [ ] ETCD
+    - [ ] ProtBuff
+  - [ ] Auth
+    - [ ] JWT
+    - [ ] Oauth2
+  - [ ] Task Scheduling
+    - [ ] Declarative Scheduling
+    - [ ] Dynamic Scheduling
+    - [ ] Lock
+    - [ ] Distributed Lock 
+  - [ ] AsyncTask
+    - [ ] Kafka
+    - [ ] Bull
+    - [ ] BullMQ
+  - [ ] File Management
+    - [ ] Aws S3
+    - [ ] Akamai CDN
+    - [ ] Upload Files
+    - [ ] Download Files
+  - [ ] Monitors
+    - [ ] Logs
