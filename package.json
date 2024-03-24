@@ -9,7 +9,7 @@
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\" ",
     "dev:server": "npm run start:dev --prefix server",
     "dev:client": "npm run start --prefix client",
-    "commit": "git-cz",
+    "commit": "npx git-cz",
     "lint-staged": "lint-staged"
   },
   "devDependencies": {
