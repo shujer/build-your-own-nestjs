@@ -678,16 +678,6 @@
     tslib "2.4.0"
     uuid "8.3.2"
 
-"@nestjs/config@^3.2.1":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/config/-/config-3.2.1.tgz#6b264564e70a8d639734e9a583ad1d2ac5351588"
-  integrity sha512-tFZyLJKanSAu51ygQ6ZBSpx95pRcwS6qSpJDW6FFgRQzkOaOUXpL8qD8yMNoYoYxuJCxph+waiBaWKgFWxn3sw==
-  dependencies:
-    dotenv "16.4.5"
-    dotenv-expand "10.0.0"
-    lodash "4.17.21"
-    uuid "9.0.1"
-
 "@nestjs/core@^8.0.0":
   version "8.4.7"
   resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-8.4.7.tgz#fbec7fa744ac8749a4b966f759a6656c1cf43883"
@@ -2116,16 +2106,6 @@ domexception@^2.0.1:
   integrity sha512-yxJ2mFy/sibVQlu5qHjOkf9J3K6zgmCxgJ94u2EdvDOV09H+32LtRswEcUsmUWN72pVLOEnTSRaIVVzVQgS0dg==
   dependencies:
     webidl-conversions "^5.0.0"
-
-dotenv-expand@10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-10.0.0.tgz#12605d00fb0af6d0a592e6558585784032e4ef37"
-  integrity sha512-GopVGCpVS1UKH75VKHGuQFqS1Gusej0z4FyQkPdwjil2gNIv+LNsqBlboOzpJFZKVT95GkCyWJbBSdFEFUWI2A==
-
-dotenv@16.4.5:
-  version "16.4.5"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.4.5.tgz#cdd3b3b604cb327e286b4762e13502f717cb099f"
-  integrity sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==
 
 ee-first@1.1.1:
   version "1.1.1"
@@ -5038,11 +5018,6 @@ uuid@8.3.2:
   version "8.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
   integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
-
-uuid@9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.1.tgz#e188d4c8853cc722220392c424cd637f32293f30"
-  integrity sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==
 
 v8-compile-cache-lib@^3.0.1:
   version "3.0.1"

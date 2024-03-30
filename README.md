@@ -5,7 +5,7 @@ Blog Link: [YuQue](https://www.yuque.com/shujer/skill/rciv7hbxxw54ig42)
 # Catalog
 - [x] Stater Template
 - [x] HTTP Request & Swagger
-- [ ] Config & Env
+- [x] Config & Env
 - [ ] Basic Concepts
   - [ ] Module
   - [ ] Provider

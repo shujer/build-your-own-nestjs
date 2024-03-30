@@ -1,11 +1,8 @@
 default: &default
-  database: "nest_app_db"
   host: "127.0.0.1"
-  port: 6606
-  username: "root"
-  password: "123456"
+  port: 6379
 
-mysql:
+redis:
   dev:
     <<: *default
   test:
